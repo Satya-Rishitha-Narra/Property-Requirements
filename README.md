@@ -18,8 +18,8 @@ This CRM system, built on the Salesforce platform, is tailored to manage custome
 - Verified Access Control via LWC: A Lightning Web Component (LWC) that provides listing access based on customer verification status.
 
 # Links
-- [Documentation]
-- Jotform 
+- [Documentation](https://github.com/Satya-Rishitha-Narra/Property-Requirements/blob/main/Documentation%20pdf.pdf)
+- [Jotform](https://form.jotform.com/242994376991072) 
 - Youtube 
 # Salesforce DX Project: Next Steps
 
