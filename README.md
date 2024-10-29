@@ -1,3 +1,26 @@
+# Description
+This repository hosts the source code for Dreams World Properties Real Estate CRM system, designed to enhance client management, track property interactions, and optimize customer engagement using Salesforce.
+
+# About this Project
+This CRM system, built on the Salesforce platform, is tailored to manage customer interactions, organize property listings, and deliver personalized experiences based on customer verification. It includes automated workflows that streamline processes for efficient property management.
+
+# Key techniques
+- Property Requirements App: Custom app with “Customer” and “Property” objects to oversee client interactions and manage property information.
+
+- Seamless Customer Data Capture: Instantly capture customer data from forms into Salesforce for efficient information entry.
+
+- Spreadsheet Import Functionality: Easily create Salesforce objects by importing data from spreadsheets.
+
+- Jotform Data Sync: Automatic integration of customer data from Jotform submissions into Salesforce records.
+
+- Listing Validation Workflow: Customizable approval process to validate and control property listings.
+
+- Verified Access Control via LWC: A Lightning Web Component (LWC) that provides listing access based on customer verification status.
+
+# Links
+- [Documentation]
+- Jotform 
+- Youtube 
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
